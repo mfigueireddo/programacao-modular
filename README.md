@@ -5,6 +5,7 @@ Este repositório contém o trabalho final da disciplina de **Programação Modu
 ---
 
 ## 🗂️ Estrutura do Repositório
+```
 ├── dados/ → Armazena os arquivos .txt com os dados do sistema
 └── src/ → Código-fonte principal do sistema
 ├── entidades/ → Módulos para entidades principais do sistema
@@ -17,7 +18,7 @@ Este repositório contém o trabalho final da disciplina de **Programação Modu
 ├── menu.py → Interface de terminal para interação com o usuário
 ├── status_code.py → Define códigos de retorno padronizados
 └── testes_unificados.py → Testes automatizados para todas as entidades
-
+```
 ---
 
 ## 💡 Descrição do Projeto
